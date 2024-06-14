@@ -9,7 +9,7 @@
 "Contact": {
   "EMail": "idrism@spu.edu",
   "Phone": "",
-  "Portfolio": "",
+  "Portfolio": "MeriemIdris101.github.io",
   "LinkedIn": "www.linkedin.com/in/meriem-idris",
   "GitHub": "https://github.com/MeriemIdris101"
 },
@@ -18,13 +18,13 @@
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
   "Graduation": "June 2023",
-  "EducationText": "I major in BA Compute science and minor in Data Analytics",
+  "EducationText": "I major in BA Computer science and minor in Data Analytics",
   "Employment": "Seattle Pacific University",
   "Role": "How's Life? Intern",
   "EmploymentText": "I currently intern with How's Life.",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
   "SkillsText": "Data Structures, Web Development, Data Analytics, Statistical Analysis, Leadership.",
-  "Resume": "2024TechResume.docx"  
+  "Resume": "2024TechResume2.pdf"  
 },
 "Project1": {
     "Title": "FITBUDDY",
