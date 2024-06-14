@@ -41,7 +41,7 @@
     "DetailImages": []
   },
   "Project3": {
-    "Title": "Interesting Project 3",
+    "Title": "Running Cat",
     "Desc": "TDeveloped a user-friendly game using Scratch and Visual Studio Code of a running cat that must overcome obstacles such as walls, balls, and birds.",
     "GitHubRepo": "",
     "MainImage": "runningCat.png",
