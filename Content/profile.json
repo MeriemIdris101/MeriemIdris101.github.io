@@ -9,9 +9,9 @@
 "Contact": {
   "EMail": "idrism@spu.edu",
   "Phone": "",
-  "Portfolio": "https://www.github.com",
+  "Portfolio": "MeriemIdris101.github.io",
   "LinkedIn": "www.linkedin.com/in/meriem-idris",
-  "GitHub": "https://www.github.com"
+  "GitHub": "https://github.com/MeriemIdris101"
 },
 "Experience": {
   "ExperienceText": "I am currently interning with the 'How's Life?' app as a software developer!<br><br>I have a passion for programming and enjoy creating cute websites and games. In my free time, I love to draw, go on walks, and work on various coding projects. Developing new applications and learning about emerging technologies keeps me inspired and motivated. Balancing creativity with technical skills allows me to constantly innovate and improve my craft.",
@@ -37,14 +37,14 @@
     "Title": "Gulp",
     "Desc": "I developed a user-friendly React Native app for seamless water with a couple teammates. The app’s focus is Intake tracking of water. It features record management using Mongo DB and SQLite.",
     "GitHubRepo": "",
-    "MainImage": "P2Main.png",
+    "MainImage": "waterIntake.png",
     "DetailImages": []
   },
   "Project3": {
     "Title": "Interesting Project 3",
     "Desc": "TDeveloped a user-friendly game using Scratch and Visual Studio Code of a running cat that must overcome obstacles such as walls, balls, and birds.",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
+    "MainImage": "runningCat.png",
     "DetailImages": []
   },
   "Project4": {
