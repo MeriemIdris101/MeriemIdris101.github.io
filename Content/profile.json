@@ -1,9 +1,9 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
+  "Name": "Meriem Idris",
   "Currently": "Computer Science Student",
-  "Headshot": "student-portrait.png",
-  "Thumbnail": "student-logo.webp",
+  "Headshot": "headshot.png",
+  "Thumbnail": "headshot.png",
   "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
 },
 "Contact": {
@@ -30,7 +30,7 @@
     "Title": "Interesting Project 1",
     "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
+    "MainImage": "fitness.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
