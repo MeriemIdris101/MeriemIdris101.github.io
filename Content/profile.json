@@ -10,7 +10,7 @@
   "EMail": "idrism@spu.edu",
   "Phone": "",
   "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
+  "LinkedIn": "www.linkedin.com/in/meriem-idris",
   "GitHub": "https://www.github.com"
 },
 "Experience": {
@@ -29,20 +29,20 @@
 "Project1": {
     "Title": "FITBUDDY",
     "Desc": "FitBuddy is a comprehensive fitness application designed to enhance personal health and wellness through personalized workout plans, nutrition guidance, and community engagement. The app offers users a customizable and interactive experience, adjusting to their individual fitness needs and goals. By featuring advanced features such as AI-powered training and social support, FitBuddy aims to provide an effective and motivating fitness solution for users of all levels.",
-    "GitHubRepo": "https://github.com",
+    "GitHubRepo": "",
     "MainImage": "fitness.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "Gulp",
+    "Desc": "I developed a user-friendly React Native app for seamless water with a couple teammates. The app’s focus is Intake tracking of water. It features record management using Mongo DB and SQLite.",
+    "GitHubRepo": "",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
     "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Desc": "TDeveloped a user-friendly game using Scratch and Visual Studio Code of a running cat that must overcome obstacles such as walls, balls, and birds.",
     "GitHubRepo": "",
     "MainImage": "P3Main.png",
     "DetailImages": []
